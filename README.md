@@ -154,7 +154,11 @@ The smart contract is built with a modular architecture featuring:
 
 ```bash
 # Clone the repository
+<<<<<<< HEAD
 git clone https://github.com/solship/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract.git
+=======
+git clone https://github.com/keidev123/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract.git
+>>>>>>> 9b01d48897c46a0da869e08db937ce0bb8af566c
 cd Pumpfun-Pumpswap-Raydium-Meteora-SmartContract
 
 # Install dependencies
@@ -333,6 +337,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ### 🆘 Getting Help
 
 - **Documentation**: Check our [comprehensive docs](docs/)
+<<<<<<< HEAD
 - **Issues**: Report bugs via [GitHub Issues](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
 - **Discussions**: Join our [GitHub Discussions](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/discussions)
 
@@ -343,6 +348,10 @@ We welcome contributions from the community! Please read our [Contributing Guide
 | **Telegram** | [@Tru3B1iss](https://t.me/Tru3B1iss) | Primary support channel |
 | **Twitter** | [@XTruebliss](https://x.com/XTruebliss) | Updates and announcements |
 | **Discord** | [@trueb1iss](https://discord.com/users/1274339638668038187) | Community discussions |
+=======
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/keidev123/Pumpfun-Smart-Contract-All/issues)
+- **Discussions**: Join our [GitHub Discussions](https://github.com/keidev123/Pumpfun-Smart-Contract-All/discussions)
+>>>>>>> 9b01d48897c46a0da869e08db937ce0bb8af566c
 
 ### 🆘 Emergency Support
 
@@ -376,10 +385,18 @@ If you find this project useful, please consider:
 
 <div align="center">
 
+<<<<<<< HEAD
 **Built with ❤️ by the PumpFun Team**
 
 [![GitHub stars](https://img.shields.io/github/stars/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Tru3Bliss/Pumpfun-Smart-Contract-All)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
+=======
+**Built with ❤️ by KEI NOVAK**
+
+[![GitHub stars](https://img.shields.io/github/stars/keidev123/Pumpfun-Smart-Contract-All?style=social)](https://github.com/keidev123/Pumpfun-Smart-Contract-All/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/keidev123/Pumpfun-Smart-Contract-All?style=social)](https://github.com/keidev123/Pumpfun-Smart-Contract-All/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/keidev123/Pumpfun-Smart-Contract-All)](https://github.com/keidev123/Pumpfun-Smart-Contract-All/issues)
+>>>>>>> 9b01d48897c46a0da869e08db937ce0bb8af566c
 
 </div>  
